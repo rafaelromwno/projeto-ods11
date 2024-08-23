@@ -17,6 +17,19 @@ A ECOtidiano é um site criado para promover práticas sustentáveis em cidades 
 
 Este projeto é parte de nossa jornada acadêmica e visa demonstrar a aplicação prática dos conceitos aprendidos durante o curso, através do desenvolvimento de um site funcional que reflete o nosso aprendizado em design, desenvolvimento web e melhores práticas de programação.
 
+## Estrutura do Projeto
+
+- **/docs:** Documentação do projeto.
+- **/src:** Código-fonte do projeto.
+- **/data:** Arquivos relacionados ao banco de dados (não aplicável).
+- **/tests:** Scripts de teste.
+- **/assets:** Arquivos adicionais, como ícones e fundos de tela.
+- **/backup:** Arquivos de backup do projeto.
+- **/scripts:** Scripts para configuração e deployment.
+- **README.md:** Este documento.
+- **.gitignore:** Arquivo para ignorar arquivos no controle de versão.
+- **LICENSE:** Arquivo de licença.
+
 ### Contribuintes
 
 - Rafael
