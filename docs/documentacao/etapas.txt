@@ -1,0 +1,37 @@
+
+
+etapa 1 - análise de requisitos
+	levantamento de requisitos
+		observação
+		questionários
+		entrevistas
+	classificação dos requisitos
+		funcionais
+		não funcionais
+		regras de negócio
+
+etapa 2 - planejamento
+	ciclos de vida
+	metodologia
+	cronograma
+	business model canvas
+
+etapa 3 - design e projeto
+	fluxograma
+	storyboard
+	wireframes
+	modelagem de banco de dados
+
+etapa 4 - codificação
+	linguagem
+
+etapa 5 - testes
+	automação de testes
+		caixa branca
+		caixa preta
+		caixa cinza
+
+etapa 6 - implementação
+
+
+
