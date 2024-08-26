@@ -1,17 +1,17 @@
-## Plataforma de Dicas de Sustentabilidade 🍃♻
+## Plataforma de Denúncias Urbanas♻
 
-Este repositório contém o projeto **"ECOtidiano"**, desenvolvido como parte do nosso Trabalho de Conclusão de Curso no curso de Desenvolvimento de Software Multiplataforma. O projeto está sendo desenvolvido por quatro alunos da Faculdade de Tecnologia de Matão "Luiz Marchesan", e tem como objetivo integrar os conhecimentos adquiridos ao longo dos semestres em um projeto interdisciplinar.
+Este repositório contém o projeto desenvolvido como parte do nosso Trabalho de Conclusão de Curso no curso de Desenvolvimento de Software Multiplataforma. O projeto está sendo desenvolvido por quatro alunos da Faculdade de Tecnologia de Matão "Luiz Marchesan", e tem como objetivo integrar os conhecimentos adquiridos ao longo dos semestres em um projeto interdisciplinar.
 
 ### Sobre o Projeto 📚
 
-A ECOtidiano é um site criado para promover práticas sustentáveis em cidades através de dicas práticas e acessíveis. O projeto busca ajudar os moradores a adotarem práticas sustentáveis em seu dia a dia, abordando temas como economia de água, reciclagem e eficiência energética.
+Este projeto consiste no desenvolvimento de um site voltado para o recebimento de denúncias urbanas, alinhado com o Objetivo de Desenvolvimento Sustentável (ODS) 11 da ONU, que visa tornar as cidades e comunidades mais inclusivas, seguras, resilientes e sustentáveis. A plataforma permitirá que os cidadãos registrem problemas urbanos, como buracos em vias públicas, falta de iluminação, coleta de lixo irregular, entre outros, facilitando a comunicação entre a população e as autoridades responsáveis. O objetivo é melhorar a qualidade de vida nas cidades por meio da participação ativa da comunidade.
 
 ### Tecnologias Utilizadas 💻
 
-- **Front-end:** HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript
+- **Front-end:** HTML5, CSS3, TailwindCSS, JavaScript
 - **Back-end:** C#
 - **Banco de Dados:** SQL
-- **Ferramentas:** Git, GitHub
+- **Ferramentas:** Git, GitHub, Figma, Notion
 
 ### Objetivo do Projeto 🎯
 
