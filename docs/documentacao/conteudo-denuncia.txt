@@ -1,0 +1,39 @@
+[logotipo]
+
+[MENU]
+Home
+Denúncia
+Ajuda
+Conta
+
+[PRINCIPAL]
+Faça sua Denúncia
+
+Relate problemas urbanos ou ambientais preenchendo o formulário abaixo. Para denunciar anonimamente, escolha a opção adequada.
+
+[Formulário de Denúncia]
+
+[Tipo de Problema]
+
+ -Lixo e Poluição
+ -Danos à Infraestrutura
+ -Problemas de Iluminação
+ -Questões Ambientais
+ -Outros: ______________
+
+Descrição do Problema
+[Campo de texto grande para descrever o problema]
+
+Localização
+Endereço ou ponto de referência: [Campo de texto]
+
+Imagens
+[Botão para upload de imagens]
+
+Escolha a Forma de Denúncia
+ -Denunciar como usuário logado
+ -Denunciar anonimamente
+
+[Botão para enviar a denúncia]
+
+Nota: "Se você escolher denunciar anonimamente, suas informações pessoais não serão vinculadas à denúncia. No entanto, recomendamos que se registre para um acompanhamento mais eficaz."

@@ -1,0 +1,57 @@
+[logotipo]
+
+[MENU]
+Home
+Denúncia
+Ajuda
+Conta
+
+[PRINCIPAL]
+Bem-vindo ao Cidade Unida!
+
+Aqui, você pode ajudar a transformar sua cidade ao reportar problemas urbanos como lixo nas ruas e iluminação deficiente. Juntos, vamos tornar nossos ambientes mais limpos e seguros.
+
+[Imagem de uma equipe de colaboradores trabalhando em um projeto de melhoria urbana]
+
+Nossos Valores
+
+Priorizamos a segurança das suas informações para garantir a sua confiança. 
+
+[IMAGEM]
+
+Facilitamos denúncias de problemas ambientais para promover a proteção do nosso planeta.
+
+[IMAGEM]
+
+
+Nosso site é acessível a todos, garantindo que todos possam participar e ajudar.
+
+[IMAGEM]
+
+
+Conheça Nossa Equipe
+
+Somos um grupo de estudantes do curso de Desenvolvimento de Software Multiplataforma da FATEC Matão. Este projeto é parte do nosso trabalho acadêmico, nossa equipe está comprometida a utilizar o conhecimento adquirido no curso para desenvolver uma solução eficaz e inovadora que contribua para uma cidade mais limpa e segura.
+
+
+[FOTO] Pedro Ferreira Leite - Analista de Suporte
+[FOTO] Miguel Morandini - Desenvolvedor de Software
+[FOTO] Jerônimo Barbieri - Analista de Suporte
+[FOTO] Rafael Romano Silva - Coordenador de Projetos
+
+Entre em Contato
+
+Se você tiver alguma dúvida ou precisar de assistência, não hesite em nos contatar. Estamos aqui para ajudar!
+
+Informações de Contato:
+
+[ICONES]
+
+Email: contato@cidadeunida.com
+Telefone: (11) 1234-5678
+
+[RODAPÉ]
+Links Rápidos: Home | Denúncia | Ajuda | Conta
+Política de Privacidade
+Termos de Serviço
+COPYRIGHT

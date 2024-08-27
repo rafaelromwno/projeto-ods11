@@ -1,0 +1,28 @@
+[logotipo]
+
+[MENU]
+Home
+Denúncia
+Ajuda
+Conta
+
+[PRINCIPAL]
+
+Entrar na Sua Conta
+Bem-vindo de volta ao Cidade Unida!
+
+Digite seu e-mail e senha para acessar sua conta.
+
+Informações de Login
+
+E-mail: [Campo de Texto]
+Senha: [Campo de Senha]
+[Botão de Login]
+
+[Link para Recuperar Senha] | [Link para Criar Conta]
+
+[RODAPÉ]
+Links Rápidos: Home | Denúncia | Ajuda | Conta
+Política de Privacidade
+Termos de Serviço
+COPYRIGHT

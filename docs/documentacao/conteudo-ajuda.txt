@@ -1,0 +1,88 @@
+[logotipo]
+
+[MENU]
+Home
+Denúncia
+Ajuda
+Conta
+
+[PRINCIPAL]
+Perguntas Frequentes
+O que é a United City?
+
+A United City é uma plataforma que ajuda a melhorar cidades ao permitir que os cidadãos reportem problemas urbanos e ambientais. Nosso objetivo é promover cidades bem-organizadas e sustentáveis.
+Quais são os principais objetivos da United City?
+
+Facilitar a denúncia de problemas ambientais.
+Promover a participação cidadã.
+Monitorar a qualidade ambiental.
+Auxiliar na implementação de políticas públicas sustentáveis.
+Como o software United City pode ajudar minha comunidade?
+
+Gerenciamento de denúncias.
+Participação cidadã.
+Monitoramento ambiental.
+Gestão de políticas públicas.
+Quais tecnologias são utilizadas?
+
+Plataforma Web: HTML, CSS, JavaScript
+Aplicativos Móveis: Flutter
+Prototipagem: Figma
+Modelagem de Banco de Dados: Dia Diagram
+Como posso contribuir para a United City?
+<hr>
+Entre em contato conosco através do formulário de contato no site.
+Onde obter mais informações?
+
+Visite nosso site e siga-nos nas redes sociais. Use nosso formulário de contato para questões diretas.
+Informações para os Usuários
+É um site do Estado?
+
+Não, enviamos relatórios aos departamentos locais e publicamos online para transparência.
+Quem é a United City?
+
+Um projeto acadêmico de estudantes da Fatec Matão, desenvolvido para facilitar a denúncia de problemas urbanos.
+Como entrar em contato?
+
+Use o formulário de contato no site. Verifique as Perguntas Frequentes antes de enviar.
+O que posso relatar?
+
+Problemas urbanos e ambientais como lixo, grafite, buracos, etc.
+O que não devo relatar?
+
+Questões urgentes como vazamentos de gás devem ser reportadas às autoridades apropriadas.
+As denúncias são públicas?
+
+Sim, para evitar duplicatas e promover transparência.
+Por que preciso fornecer meu nome e e-mail?
+
+Para que o departamento responsável possa contatá-lo. Seu e-mail não será publicado e você pode denunciar anonimamente.
+Como fazer login e registrar?
+
+Visite a página "Conta" no site.
+Esqueci minha senha?
+
+Solicite uma nova senha na página "Conta".
+Quero alterar minha senha ou e-mail?
+
+Faça isso na página "Conta".
+O site não está funcionando?
+
+Verifique sua conexão e envie detalhes do erro para suporte@unitedcity.com.
+Meu endereço não está no United City?
+
+Contate-nos com detalhes para adicionar novos locais.
+<hr>
+Termos de Uso
+Mantenha a civilidade: Evite comentários difamatórios ou ofensivos.
+Não publique mensagens ilegais ou abusivas.
+Não se passe por outras pessoas e não use linguagem ofensiva.
+Respeite a Constituição Brasileira e interaja de forma respeitosa.
+Cookies e Privacidade
+Privacidade: Consulte nossa política de privacidade para saber como usamos suas informações.
+
+[RODAPÉ]
+Links Rápidos: Home | Denúncia | Ajuda | Conta
+Política de Privacidade
+Termos de Serviço
+COPYRIGHT

@@ -1,0 +1,53 @@
+[logotipo]
+
+[MENU]
+Home
+Denúncia
+Ajuda
+Conta
+
+[PRINCIPAL]
+Perfil do Usuário
+Bem-vindo, [Nome do Usuário]!
+
+Aqui você pode visualizar e atualizar suas informações pessoais.
+
+Informações Pessoais
+Nome Completo: [Campo de Texto]
+E-mail: [Campo de Texto]
+Telefone: [Campo de Texto]
+[Botão de Editar]
+
+Alterar Senha
+Se você deseja mudar sua senha, insira sua senha atual e a nova senha abaixo.
+
+Senha Atual: [Campo de Senha]
+Nova Senha: [Campo de Senha]
+Confirmar Nova Senha: [Campo de Senha]
+[Botão de Alterar Senha]
+
+Configurações de Privacidade
+Gerencie suas preferências de privacidade e como suas informações são compartilhadas.
+
+Compartilhar Informações: [Caixas de Seleção]
+Notificações por E-mail: [Caixas de Seleção]
+[Botão de Salvar Configurações]
+
+Histórico de Denúncias
+Aqui você pode visualizar suas denúncias anteriores.
+
+Denúncia 1: [Detalhes da Denúncia]
+Denúncia 2: [Detalhes da Denúncia]
+Denúncia 3: [Detalhes da Denúncia]
+[Botão de Ver Mais]
+
+Desconectar
+Para sair da sua conta, clique no botão abaixo.
+
+[Botão de Desconectar]
+
+[RODAPÉ]
+Links Rápidos: Home | Denúncia | Ajuda | Conta
+Política de Privacidade
+Termos de Serviço
+COPYRIGHT
