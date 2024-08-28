@@ -11,25 +11,29 @@
 
 <body class="bg-gray-900">
     
-    <header class="w-full h-32 shadow bg-azul-paleta">
+    <header class="w-full h-32 bg-azul-paleta md:flex md:justify-between md:items-center md:shadow-md ">
         
-        <a href="index.html" class="cursor-pointer">
-            <img src="../../assets/logotipo-sem-borda.svg" alt="Logotipo Cidade Unida" class="p-5">
-        </a>
+        <div class="flex justify-between items-center">
+            <a href="index.html" class="cursor-pointer">
+                <img src="../../assets/logotipo-sem-borda.svg" alt="Logotipo Cidade Unida" class="p-3">
+            </a>
+
+           <img src="../../assets/menu-hamburguer.svg" alt="Menu">
+        </div>
 
         <nav class="text-white">
-            <ul class="md:flex md:items-center">
-                <li class="">
+            <ul class="md:flex md:items-center z-[-1] md:z-auto md:static absolute bg-azul-paleta w-full left-0 md:w-auto md:py-0 py-4 md:pl-0 pl-7 md:opacity-100 opacity-0 top-[-400px] transition-all ease-in duration-500">
+                <li class="mx-4 my-6 md:my-0">
                     <a href="" class="text-xl hover:text-verde-paleta duration-500">HOME</a>
                 </li>
-                <li class="">
+                <li class="mx-4 my-6 md:my-0">
                     <a href="" class="text-xl hover:text-verde-paleta duration-500">DENÚNCIA</a>
                 </li>
-                <li class="">
+                <li class="mx-4 my-6 md:my-0">
                     <a href="" class="text-xl hover:text-verde-paleta duration-500">AJUDA</a>
                 </li>
-                <li class="">
-                    <a href="" class="text-xl hover:text-verde-paleta duration-500">ENTRAR</a>
+                <li class="mx-4 my-6 md:my-0">
+                    <button class="bg-verde-paleta text-white font-semibold  duration-500 px-6 py-2 md:mx-4 rounded-sm hover:bg-verde-escuro-paleta">ENTRAR</button>
                 </li>
             </ul>
         </nav>
