@@ -52,10 +52,10 @@
         
             <!-- Botões -->
             <div class="space-y-1 pt-3">
-                <a href="#" class="block bg-verde-paleta hover:bg-verde-escuro-paleta duration-500 text-white font-semibold py-2 px-4 rounded inline-flex items-center">
+                <a href="#" class=" bg-verde-paleta hover:bg-verde-escuro-paleta duration-500 text-white font-semibold py-2 px-4 rounded inline-flex items-center">
                 <span class="material-symbols-outlined w-4 h-4 mr-2">login</span>Entrar 
                 </a>
-                <a href="#" class="block bg-gray-300 hover:bg-gray-400 duration-500 text-azul-paleta font-semibold py-2 px-4 rounded inline-flex items-center">
+                <a href="#" class=" bg-gray-300 hover:bg-gray-400 duration-500 text-azul-paleta font-semibold py-2 px-4 rounded inline-flex items-center">
                 <span class="material-symbols-outlined w-4 h-4 mr-2">person_add</span> Registrar 
                 </a>
             </div>
@@ -64,11 +64,20 @@
       </header>
       
       <script>
-        // JavaScript para alternar o menu mobile
+        // Função para alternar o menu responsivo
         document.getElementById('menu-toggle').addEventListener('click', function() {
-          var mobileMenu = document.getElementById('mobile-menu');
-          mobileMenu.classList.toggle('hidden');
-        });
+        var mobileMenu = document.getElementById('mobile-menu');
+        mobileMenu.classList.toggle('hidden');
+      });
+
+      // Função para lidar com a mudança de tamanho da tela
+      window.addEventListener('resize', function() {
+        var mobileMenu = document.getElementById('mobile-menu');
+        if (window.innerWidth >= 768) {
+          mobileMenu.classList.add('hidden');
+        }
+      });
+        
       </script>
       
 </body>
