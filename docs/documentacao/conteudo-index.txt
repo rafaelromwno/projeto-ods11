@@ -39,16 +39,6 @@ Somos um grupo de estudantes do curso de Desenvolvimento de Software Multiplataf
 [FOTO] Jerônimo Barbieri - Analista de Suporte
 [FOTO] Rafael Romano Silva - Coordenador de Projetos
 
-Entre em Contato
-
-Se você tiver alguma dúvida ou precisar de assistência, não hesite em nos contatar. Estamos aqui para ajudar!
-
-Informações de Contato:
-
-[ICONES]
-
-Email: contato@cidadeunida.com
-Telefone: (11) 1234-5678
 
 [RODAPÉ]
 Links Rápidos: Home | Denúncia | Ajuda | Conta
