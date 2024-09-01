@@ -1,0 +1,13 @@
+Como referenciar as imagens geradas pela IA
+
+Fonte: 
+
+gerado por [Nome da Ferramenta de IA] em dd/mm/aaaa." 
+
+No texto: 
+
+Mencione a autoria como "imagem gerada por [Nome da Ferramenta de IA]" ou "Figura gerada por algoritmo de inteligência artificial.
+
+Na legenda da figura:
+
+Inclua informações detalhadas sobre a ferramenta de IA ou o algoritmo utilizado. Por exemplo, "Fonte: gerado por [Nome da Ferramenta de IA] em dd/mm/aaaa."
