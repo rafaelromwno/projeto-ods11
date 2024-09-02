@@ -17,7 +17,7 @@ Este projeto consiste no desenvolvimento de um site voltado para o recebimento d
 
 Este projeto é parte de nossa jornada acadêmica e visa demonstrar a aplicação prática dos conceitos aprendidos durante o curso, através do desenvolvimento de um site funcional que reflete o nosso aprendizado em design, desenvolvimento web e melhores práticas de programação.
 
-## Estrutura do Projeto
+## Estrutura do Projeto 🧱
 
 - **/docs:** Documentação do projeto.
 - **/src:** Código-fonte do projeto.
@@ -30,7 +30,7 @@ Este projeto é parte de nossa jornada acadêmica e visa demonstrar a aplicaçã
 - **.gitignore:** Arquivo para ignorar arquivos no controle de versão.
 - **LICENSE:** Arquivo de licença.
 
-## Documentação de cores
+## Documentação de cores 🎨
 
 | Cor               | Hexadecimal                                                |
 | ----------------- | ---------------------------------------------------------------- |
