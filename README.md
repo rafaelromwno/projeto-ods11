@@ -30,6 +30,16 @@ Este projeto é parte de nossa jornada acadêmica e visa demonstrar a aplicaçã
 - **.gitignore:** Arquivo para ignorar arquivos no controle de versão.
 - **LICENSE:** Arquivo de licença.
 
+## Documentação de cores
+
+| Cor               | Hexadecimal                                                |
+| ----------------- | ---------------------------------------------------------------- |
+| azul-paleta        | #112B3C |
+| verde-paleta       | #5BC561 |
+| verde-escuro-paleta| #3B8C4B |
+| vermelho-paleta    | #A92C2C |
+| cinza-paleta       | #CED8E2 |
+
 ### Contribuintes 👨‍🎓
 
 - Rafael
