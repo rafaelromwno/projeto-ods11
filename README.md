@@ -10,7 +10,7 @@ Este projeto consiste no desenvolvimento de um site voltado para o recebimento d
 
 - **Front-end:** HTML5, CSS3, TailwindCSS, JavaScript
 - **Back-end:** C#
-- **Banco de Dados:** SQL
+- **Banco de Dados:** SQL Server
 - **Ferramentas:** Git, GitHub, Figma, Notion
 
 ### Objetivo do Projeto 🎯
