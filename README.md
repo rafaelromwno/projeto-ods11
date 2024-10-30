@@ -21,11 +21,7 @@ Este projeto é parte de nossa jornada acadêmica e visa demonstrar a aplicaçã
 
 - **/docs:** Documentação do projeto.
 - **/src:** Código-fonte do projeto.
-- **/data:** Arquivos relacionados ao banco de dados (não aplicável).
-- **/tests:** Scripts de teste.
 - **/assets:** Arquivos adicionais, como ícones e fundos de tela.
-- **/backup:** Arquivos de backup do projeto.
-- **/scripts:** Scripts para configuração e deployment.
 - **README.md:** Este documento.
 - **.gitignore:** Arquivo para ignorar arquivos no controle de versão.
 - **LICENSE:** Arquivo de licença.
