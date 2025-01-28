@@ -1,8 +1,10 @@
-a) Deve-se armazenar o código exclusivo, nome, email, senha, telefone e status de atividade(se está ativo ou não) de um usuário comum;
+REQUISITOS:
 
-b) Um usuario pode realizar várias denúncias, uma denúncia deve ser feita por um ou mais usuários;
+a) Deve-se armazenar o código exclusivo, nome, email, senha, telefones, seu status de atividade(se está ativo ou não) e o tipo(comum ou administrador) de um usuário;
 
-c) Deve-se armazenar o código exclusivo, status, categorias, descrição, endereço, imagem, data de envio, se está ativa e se é anônima ou não;
+b) Um usuario pode realizar várias denúncias, mas uma denúncia deve ser feita por um ou mais usuários;
+
+c) Deve-se armazenar o código exclusivo, status, categoria, descrição, endereço (composto por Rua, Número, Bairro, Cidade, Estado e CEP), endereço da imagem, data de envio, seu status de atividade(se está ativo ou não) e se é anônima ou não;
 
 d) Deve-se armazenar o código exclusivo, nome do remetente, email do remetente, mensagem e a data de envio de um contato realizado;
 
@@ -12,6 +14,6 @@ f) Um usuário pode ser um administrador ou usuário comum, exclusivamente, isto
 
 g) Um administrador pode gerenciar várias denúncias, uma denúncia pode ser gerenciada por vários administradores;
 
-h) Um usuário administrador pode gerenciar vários contatos, um contato pode ser gerenciado por vários administradores;
+h) Um usuário administrador pode gerenciar vários contatos, um contato pode ser gerenciado por vários administradores; 
 
-i) Um usuário comum pode solicitar várias recuperções de senha, uma recuperação de senha pode ser feita por vários usuários;
+i) Um usuário comum pode solicitar várias recuperações de senha, uma recuperação de senha pode ser feita por vários usuários;

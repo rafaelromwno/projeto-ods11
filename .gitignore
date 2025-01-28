@@ -1,6 +1,20 @@
-.log/
+# Ignorar pastas e arquivos gerados
 node_modules/
-css/
-.css/
-export.scss
+docs/
+docs/design/
+docs/documentacao
 export/
+
+# Ignorar arquivos específicos
+*.log
+*.css
+export.scss
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar configurações de IDEs e editores
+.vscode/
+.idea/
+*.swp
