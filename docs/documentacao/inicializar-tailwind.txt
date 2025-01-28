@@ -1,2 +1,0 @@
-
-npx tailwindcss -i "C:\Users\Usuario\Documents\git hub\projeto-ods11\src\css\input.css" -o "C:\Users\Usuario\Documents\git hub\projeto-ods11\src\css\output.css" --watch
